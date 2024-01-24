@@ -1,6 +1,4 @@
-Certainly! Here is a `README.md` file tailored for your `UserDashboard` project, including instructions for getting started with the project:
 
-```markdown
 # UserDashboard
 
 UserDashboard is a web-based application designed to provide users with a personalized dashboard experience. This project is built using React and integrates various user interface components.
